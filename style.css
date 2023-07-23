@@ -12,4 +12,13 @@
     width: 679px;
     height: 412px;
     flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+.cabecalho {
+    width: 1616px;
+height: 933px;
+flex-shrink: 0;
+background: #F00;
+
 }
