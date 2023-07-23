@@ -1,0 +1,15 @@
+.preto_texto{
+    width: 794px;
+    color: #000;
+    font-family: Inder;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.marquinho {
+    width: 679px;
+    height: 412px;
+    flex-shrink: 0;
+}
