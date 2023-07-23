@@ -1,24 +1,23 @@
 .preto_texto{
-    width: 794px;
+    width: 794 px;
     color: #000;
     font-family: Inder;
-    font-size: 50px;
+    font-size: 50 px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
 }
 
 .marquinho {
-    width: 679px;
-    height: 412px;
+    width: 679 px;
+    height: 412 px;
     flex-shrink: 0;
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
 
 .cabecalho {
-    width: 1616px;
-height: 933px;
+width: 1616 px;
+height: 933 px;
 flex-shrink: 0;
-background: #F00;
+background: #FF0000;
 
 }
