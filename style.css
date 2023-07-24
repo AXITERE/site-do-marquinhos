@@ -13,7 +13,7 @@
     width: 679 px;
     height: 412 px;
     flex-shrink: 0;
-    align-items: center;
+    text-align: center;
 }
 
 .cabecalho {
