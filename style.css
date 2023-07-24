@@ -10,9 +10,9 @@
 }
 
 .marquinho {
-    width: 679 px;
-    height: 412 px;
-    flex-shrink: 0;
+width: 679 px;
+height: 412 px;
+flex-shrink: 0;
 }
 
 .cabecalho {
@@ -26,10 +26,16 @@ background: #FF0000;
 
 
 .bateria_eletronica{
-    width: 721px;
+width: 721px;
 height: 581px;
 }
 
 .bateria_eletronica_identificação{
-    text-align: right;
+text-align: right;
+color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
