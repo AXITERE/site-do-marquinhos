@@ -13,7 +13,6 @@
     width: 679 px;
     height: 412 px;
     flex-shrink: 0;
-    text-align: center;
 }
 
 .cabecalho {
@@ -21,5 +20,6 @@ width: 1616 px;
 height: 933 px;
 flex-shrink: 0;
 background: #FF0000;
+ text-align:center;
 
 }
