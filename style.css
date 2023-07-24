@@ -28,6 +28,7 @@ background: #FF0000;
 .bateria_eletronica{
 width: 721 px;
 height: 581 px;
+text-align: right;
 }
 
 .bateria_eletronica_identificação{
