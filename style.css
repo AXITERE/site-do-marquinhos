@@ -2,7 +2,7 @@
     width: 794 px;
     color: #000;
     font-family: Inder;
-    font-size: 50px;
+    font-size: 50 px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -26,15 +26,15 @@ background: #FF0000;
 
 
 .bateria_eletronica{
-width: 721px;
-height: 581px;
+width: 721 px;
+height: 581 px;
 }
 
 .bateria_eletronica_identificação{
 text-align: right;
 color: #000;
 font-family: Inter;
-font-size: 40px;
+font-size: 40 px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
