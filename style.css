@@ -1,8 +1,8 @@
-.preto_texto{
+.preto_texto {
     width: 794 px;
     color: #000;
     font-family: Inder;
-    font-size: 50 px;
+    font-size: 60 px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -10,9 +10,11 @@
 }
 
 .marquinho {
-width: 679 px;
-height: 412 px;
-flex-shrink: 0;
+    width: 679 px;
+    height: 412 px;
+    flex-shrink: 0;
+    text-align: center;
+
 }
 
 .cabecalho {
@@ -20,23 +22,63 @@ width: 1616 px;
 height: 933 px;
 flex-shrink: 0;
 background: #FF0000;
- text-align:center;
 
 }
 
+.bateria_eletronica {
+    width: 721 px;
+    height: 581 px;
+    text-align: right;
+    }
 
-.bateria_eletronica{
-width: 721 px;
-height: 581 px;
+.bateria_eletronica_identificação {
+    text-align: right;
+    color: #000;
+    font-family: Inter;
+    font-size: 40 px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    }
+
+.violao_eletronico {
+    width: 526px;
+height: 663px;
 text-align: right;
+
 }
 
-.bateria_eletronica_identificação{
+.violao_eletronico_identificação {
 text-align: right;
-color: #000;
-font-family: Inter;
-font-size: 40 px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
+
+}
+
+.contra_baixo_5 {
+text-align: right;
+width: 555px;
+height: 713px;
+
+}
+
+.contra_baixo_5_identificação {
+    text-align: right;
+
+}
+
+.guitarra_gibson {
+    text-align: right;
+width: 484px;
+height: 1025px;
+}
+
+.guitarra_gibson_identificação {
+    text-align: right;
+}
+
+.pandeiro {
+    text-align: right;
+}
+
+.pandeiro_identificação {
+    text-align: right;
 }
