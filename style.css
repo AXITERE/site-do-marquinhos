@@ -1,8 +1,6 @@
 .preto_texto {
-    width: 794 px;
-    color: #000;
     font-family: Inder;
-    font-size: 60 px;
+    font-size: 60px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -10,20 +8,33 @@
 }
 
 .marquinho {
-    width: 679 px;
-    height: 412 px;
+    width: 679px;
+    height: 412px;
     flex-shrink: 0;
     text-align: center;
+    margin-left: 449px;
+    margin-right: 488px;
+    margin-top: 241px;
 
 }
 
 .cabecalho {
-width: 1616 px;
-height: 933 px;
-flex-shrink: 0;
-background: #FF0000;
+    width: 1616px;
+    height: 933px;
+    flex-shrink: 0;
+    background: #FF0000;
 
 }
+
+.bateria_acustica {
+    margin-left: 36px;
+    margin-top: 200px;
+    margin-right: 940px;
+    width: 640px;
+    height: 309px;
+}
+
+.bateria_acustica_identificação {
 
 .bateria_eletronica {
     width: 721 px;
