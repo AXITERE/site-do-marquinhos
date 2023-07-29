@@ -35,6 +35,16 @@
 }
 
 .bateria_acustica_identificação {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 154px;
+}
+
+.preço_1 {
+    
 
 .bateria_eletronica {
     width: 721 px;
