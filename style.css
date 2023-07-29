@@ -44,7 +44,15 @@
 }
 
 .preço_1 {
-    
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 154px
+}
+
+
 
 .bateria_eletronica {
     width: 721 px;
