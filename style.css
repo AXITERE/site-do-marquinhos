@@ -69,8 +69,8 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-left: 1119px;
-    margin-right: 154px;
+    margin-right: 15px;
+    text-align: right;
     }
 
 .preço_2 {
@@ -79,15 +79,46 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    margin-right: 15px;
+    text-align: right;
+}
+
+.violao_acustico_imagem {
+    margin-left: 36px;
+    margin-top: 200px;
+    margin-right: 940px;
+    width: 640px;
+    height: 309px;
+}
+
+.violao_acustico_identificação {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
     margin-left: 154px;
 }
 
-.violao_eletronico {
-    width: 526px;
-height: 663px;
-text-align: right;
-
+.preço_3 {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 154px
 }
+
+
+
+.violao_eletronico_imagem {
+    width: 640px;
+    height: 309px;
+    text-align: right;
+    margin-right: 36px;
+    margin-left: 940px;
+    margin-top: 200px;
+    }
 
 .violao_eletronico_identificação {
     font-family: Inter;
@@ -95,35 +126,187 @@ text-align: right;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    margin-right: 15px;
+    text-align: right;
+    }
 
+.preço_4 {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 15px;
+    text-align: right;
 }
 
-.contra_baixo_5 {
-text-align: right;
-width: 555px;
-height: 713px;
-
+.contra_baixo_4_imagem {
+    margin-left: 36px;
+    margin-top: 200px;
+    margin-right: 940px;
+    width: 640px;
+    height: 309px;
 }
+
+.contra_baixo_4_identificação {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 154px;
+}
+
+.preço_5 {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 154px
+}
+
+
+
+.contra_baixo_5_imagem {
+    width: 640px;
+    height: 309px;
+    text-align: right;
+    margin-right: 36px;
+    margin-left: 940px;
+    margin-top: 200px;
+    }
 
 .contra_baixo_5_identificação {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 15px;
     text-align: right;
+    }
 
+.preço_6 {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 15px;
+    text-align: right;
 }
 
-.guitarra_gibson {
-    text-align: right;
-width: 484px;
-height: 1025px;
+.guitarra_stratocaster_imagem {
+    margin-left: 36px;
+    margin-top: 200px;
+    margin-right: 940px;
+    width: 640px;
+    height: 309px;
 }
+
+.guitarra_stratocaster_identificação {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 154px;
+}
+
+.preço_7 {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 154px
+}
+
+
+
+.guitarra_gibson_imagem {
+    width: 640px;
+    height: 309px;
+    text-align: right;
+    margin-right: 36px;
+    margin-left: 940px;
+    margin-top: 200px;
+    }
 
 .guitarra_gibson_identificação {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 15px;
+    text-align: right;
+    }
+
+.preço_8 {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 15px;
     text-align: right;
 }
 
-.pandeiro {
-    text-align: right;
+.teclado_imagem {
+    margin-left: 36px;
+    margin-top: 200px;
+    margin-right: 940px;
+    width: 640px;
+    height: 309px;
 }
+
+.teclado_identificação {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 154px;
+}
+
+.preço_9 {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 154px
+}
+
+
+
+.pandeiro_imagem {
+    width: 640px;
+    height: 309px;
+    text-align: right;
+    margin-right: 36px;
+    margin-left: 940px;
+    margin-top: 200px;
+    }
 
 .pandeiro_identificação {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 15px;
+    text-align: right;
+    }
+
+.preço_10 {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 15px;
     text-align: right;
 }
