@@ -55,20 +55,31 @@
 
 
 .bateria_eletronica_imagem {
-    width: 721 px;
-    height: 581 px;
+    width: 640px;
+    height: 309px;
     text-align: right;
+    margin-right: 138px;
+    margin-left: 757px;
+    margin-top: 200px;
     }
 
 .bateria_eletronica_identificação {
-    text-align: right;
-    color: #000;
     font-family: Inter;
-    font-size: 40 px;
+    font-size: 40px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    margin-right: 154px;
     }
+
+.preço_2 {
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 154px;
+}
 
 .violao_eletronico {
     width: 526px;
@@ -78,7 +89,11 @@ text-align: right;
 }
 
 .violao_eletronico_identificação {
-text-align: right;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 
 }
 
