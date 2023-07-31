@@ -316,4 +316,10 @@
     background: #F80E0E;
 }
 
-.informa
+.informacoes {
+    font-size: 20px;
+}
+
+.titulo {
+    font-size: 40px;
+}
