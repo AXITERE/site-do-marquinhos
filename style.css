@@ -12,14 +12,14 @@
     height: 412px;
     flex-shrink: 0;
     text-align: center;
-    margin-left: 449px;
+    margin-left: 584px;
     margin-right: 488px;
     margin-top: 241px;
 
 }
 
 .cabecalho {
-    width: 1616px;
+    width: 1897px;
     height: 933px;
     flex-shrink: 0;
     background: #FF0000;
@@ -59,7 +59,7 @@
     height: 309px;
     text-align: right;
     margin-right: 36px;
-    margin-left: 940px;
+    margin-left: 1253px;
     margin-top: 200px;
     }
 
@@ -69,7 +69,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-right: 15px;
+    margin-right: 200px;
     text-align: right;
     }
 
@@ -79,7 +79,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-right: 15px;
+    margin-right: 200px;
     text-align: right;
 }
 
@@ -116,7 +116,7 @@
     height: 663px;
     text-align: right;
     margin-right: 36px;
-    margin-left: 940px;
+    margin-left: 1253px;
     margin-top: 200px;
     }
 
@@ -126,7 +126,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-right: 15px;
+    margin-right: 200px;
     text-align: right;
     }
 
@@ -136,7 +136,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-right: 15px;
+    margin-right: 200px;
     text-align: right;
 }
 
@@ -173,7 +173,7 @@
     height: 713px;
     text-align: right;
     margin-right: 36px;
-    margin-left: 940px;
+    margin-left: 1253px;
     margin-top: 200px;
     }
 
@@ -183,7 +183,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-right: 15px;
+    margin-right: 200px;
     text-align: right;
     }
 
@@ -193,7 +193,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-right: 15px;
+    margin-right: 200px;
     text-align: right;
 }
 
@@ -230,7 +230,7 @@
     height: 1025px;
     text-align: right;
     margin-right: 36px;
-    margin-left: 940px;
+    margin-left: 1253px;
     margin-top: 200px;
     }
 
@@ -240,7 +240,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-right: 15px;
+    margin-right: 200px;
     text-align: right;
     }
 
@@ -250,7 +250,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-right: 15px;
+    margin-right: 200px;
     text-align: right;
 }
 
@@ -287,7 +287,7 @@
     height: 579px;
     text-align: right;
     margin-right: 36px;
-    margin-left: 940px;
+    margin-left: 1253px;
     margin-top: 200px;
     }
 
@@ -297,7 +297,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-right: 15px;
+    margin-right: 200px;
     text-align: right;
     }
 
@@ -307,11 +307,11 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-right: 15px;
+    margin-right: 200px;
     text-align: right;
 }
 .rodape {
-    width: 1616px;
+    width: 1897px;
     height: 880px;
     background: #F80E0E;
 }
